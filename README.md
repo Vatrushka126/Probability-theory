@@ -1,3 +1,3 @@
-# Probability-theory
-##Дз 1
-[HW](./Homework1.ipynb)
+# Теория вероятностей для систем ИИ
+## Домашнее задание
+[Дз 1](./Homework1.ipynb)
