@@ -2,3 +2,4 @@
 ## Домашнее задание
 [Дз 1](./Homework1.ipynb)
 [Дз 2](./Homework2.ipynb)
+[Дз 3](./l1.py)
